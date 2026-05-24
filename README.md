@@ -74,8 +74,19 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-Thesia&theme=tokyo-night" />
 </div>
 
 ###
