@@ -21,7 +21,9 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F742C2&center=true&vCenter=true&width=435&lines=Computer+Enginnering+Student;Turning+Ideas+Into+Code;Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat;Python+Developer;Growing+Through+Projects;+Coding+My+Future)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F742C2&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Turning+Ideas+Into+Code;Learn+•+Code+•+Build+•+Repeat;Python+Developer;Growing+Through+Projects;Coding+My+Future" />
+</div>
 
 
 <p align="center"></p>
@@ -72,13 +74,27 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Riya-Thesia126&theme=tokyonight&hide_border=true" height="220"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://raw.githubusercontent.com/Riya-Thesia126/Riya-Thesia126/pacman-output/galaga-contribution-graph.svg" />
+</div>
+
+<br>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br>
@@ -86,5 +102,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-Thesia&theme=tokyo-night" />
 </div>
-
 ###
