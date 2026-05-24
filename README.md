@@ -68,11 +68,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/pacman-output/galaga-contribution-graph.svg" alt="Pacman contribution graph">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=true" alt="Riya's GitHub stats" />
+</div>
 
-###
+<br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
