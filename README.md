@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="images/🔎𝕝 𝕒 𝕡 𝕥 𝕠 𝕡  𝕘 𝕚 𝕣 𝕝.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riya-Thesia.Riya-Thesia&"  />
 </div>
 
 ###
@@ -36,7 +36,7 @@
 
 ###
 
-<img align="right" height="200" src="https://in.pinterest.com/pin/1150388298593299399/"  />
+<img align="right" height="200" src="images/🔎𝕝 𝕒 𝕡 𝕥 𝕠 𝕡  𝕘 𝕚 𝕣 𝕝.gif"  />
 
 ###
 
