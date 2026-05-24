@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="images/🔎𝕝 𝕒 𝕡 𝕥 𝕠 𝕡  𝕘 𝕚 𝕣 𝕝.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 ###
@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riya-Thesia.Riya-Thesia&"  />
+  <img src="images/🔎𝕝 𝕒 𝕡 𝕥 𝕠 𝕡  𝕘 𝕚 𝕣 𝕝.gif"  />
 </div>
 
 ###
