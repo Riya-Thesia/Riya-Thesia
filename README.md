@@ -61,13 +61,31 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/pacman-output/galaga-contribution-graph.svg" alt="Pacman Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Riya-Thesia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/pacman-output/galaga-contribution-graph.svg" alt="Pacman contribution graph">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8" height="220" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-Thesia&theme=tokyo-night" />
 </div>
 
 <br>
