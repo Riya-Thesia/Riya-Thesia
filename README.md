@@ -21,8 +21,8 @@
 
 ###
 
-<p align="center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F742C2&center=true&vCenter=true&width=435&lines=Computer+Enginnering+Student;Turning+Ideas+Into+Code;Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat;Python+Developer;Growing+Through+Projects;+Coding+My+Future)](https://git.io/typing-svg)
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F742C2&center=true&vCenter=true&width=435&lines=Computer+Enginnering+Student;Turning+Ideas+Into+Code;Learn+%E2%80%A2+Code+%E2%80%A2+Build+%E2%80%A2+Repeat;Python+Developer;Growing+Through+Projects;+Coding+My+Future)](https://git.io/typing-svg)
+
 
 <p align="center"></p>
 
