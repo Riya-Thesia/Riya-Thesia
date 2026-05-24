@@ -69,11 +69,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/pacman-output/galaga-contribution-graph.svg" alt="Pacman contribution graph">
-</div>
 
 ###
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riya-Thesia&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
