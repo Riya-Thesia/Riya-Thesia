@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'am Riya Thesia.</h1>
+<h1 align="center">Hi 👋, I'm Riya Thesia.</h1>
 
 ###
 
