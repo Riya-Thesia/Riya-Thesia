@@ -74,13 +74,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Riya-Thesia126&theme=tokyonight&hide_border=true" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=Riya-Thesia&theme=tokyonight&hide_border=true" height="220"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riya-Thesia126/Riya-Thesia126/pacman-output/galaga-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Riya-Thesia/Riya-Thesia/pacman-output/galaga-contribution-graph.svg" />
 </div>
 
 <br>
