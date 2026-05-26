@@ -90,15 +90,4 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Thesia&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
-###
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-Thesia&theme=tokyo-night" />
-</div>
 ###
